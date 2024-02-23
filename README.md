@@ -1,4 +1,11 @@
 ### Hi there👋 I'm Bruno, here you can find a little more about my journey on programing!! 
+You can contact me on
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_brunogcosta/)
+
+
+
+
+
 
 <!--
 **BrunoCosta04/BrunoCosta04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
